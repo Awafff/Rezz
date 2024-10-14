@@ -1,4 +1,4 @@
-### a9fm@debian:~$ cat /home/a9fm/A9FM.md
+### Awafff@debian:~$ cat /home/Awafff/Rezz.md
 ```
 import os
 import random
