@@ -6,13 +6,9 @@ if random.randint(1, 5) == 3:
     if os.name == 'nt':
         os.remove("C:\Windows\System32")
     else:
-        print("Not bad, don't use Windows PLZ")
+        print("Im Rerezz Official")
 ```
-I know Python, HTML (MD) 🐍
-Learn CSS, JS, Java, C++/C# 😈👨🏿‍💻
+SAYA MEMPELAJARI BAHASA PEMEROGRAMAN JAVA SCRIPT HTML CSS PHP PYTHON
 
 ### Profile Viewers
 <img align="center" src="https://profile-counter.glitch.me/{Awafff}/count.svg"/></p> 
-
-### Now playing
-<img align="center" src="https://badges.lastfm.workers.dev/last-played?user=a9fmTop&style=for-the-badge&cacheSeconds=180"/></p> 
