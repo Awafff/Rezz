@@ -12,7 +12,7 @@ I know Python, HTML (MD) 🐍
 Learn CSS, JS, Java, C++/C# 😈👨🏿‍💻
 
 ### Profile Viewers
-<img align="center" src="https://profile-counter.glitch.me/{a9fm}/count.svg"/></p> 
+<img align="center" src="https://profile-counter.glitch.me/{Awafff}/count.svg"/></p> 
 
 ### Now playing
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=a9fmTop&style=for-the-badge&cacheSeconds=180"/></p> 
