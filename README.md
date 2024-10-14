@@ -1,4 +1,4 @@
-### Awafff@debian:~$ cat /home/Awafff/Rezz.md
+### REREZZ OFFICIAL:~$ cat /home/Awafff/Rezz.md
 ```
 import os
 import random
